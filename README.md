@@ -56,10 +56,23 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   
   
 </div
----
+<div>
+  ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sunnatjonpy&theme=dark&background=000000)](https://git.io/streak-stats)
+
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sunnatjonpy&theme=algolia&hide_border=true&border_radius=7.2&date_format=M%20j%5B%2C%20Y%5D&card_width=532&card_height=242)](https://git.io/streak-stats)
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunnatjonpy&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+  ---
+
+### :writing_hand: Blog Posts :
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+</div>
+
 
 <!--
 **sunnatjonpy/sunnatjonpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
