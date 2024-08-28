@@ -33,9 +33,9 @@
 
 ### :woman_technologist: About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uzbekistan.
+I am a FrontEnd Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uzbekistan.
 
-- :telescope: I’m working as a Junior programmer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Junior programmer and contributing to fronted for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
